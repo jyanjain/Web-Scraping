@@ -1,0 +1,182 @@
+title,author,upvotes,comments,post_url,post_time
+"I made a FOSS feature rich Python template with SOTA tools, security, CI/CD, yet easy to use",szymonmaszke,20,3,https://www.reddit.com/r/Python/comments/1lim6fb/i_made_a_foss_feature_rich_python_template_with/,2025-06-23 - 17:06:43
+Just a reminder to never blindly trust a github repo,vinnypotsandpans,722,127,https://www.reddit.com/r/Python/comments/1kvdgqa/just_a_reminder_to_never_blindly_trust_a_github/,2025-05-25 - 21:23:02
+datatrees v0.3.2: better static typing with Pylance,GianniMariani,14,0,https://www.reddit.com/r/Python/comments/1lijb48/datatrees_v032_better_static_typing_with_pylance/,2025-06-23 - 15:17:59
+What kind of Technical interview should I expect for a Python junior role?,Ok_Ice6492,0,25,https://www.reddit.com/r/Python/comments/1lipfcu/what_kind_of_technical_interview_should_i_expect/,2025-06-23 - 19:09:05
+Design Patterns You Should Unlearn in Python-Part1,Last_Difference9410,437,98,https://www.reddit.com/r/Python/comments/1lfcmky/design_patterns_you_should_unlearn_in_pythonpart1/,2025-06-19 - 14:46:02
+"Fenix: I built an algorithmic trading bot with CrewAI, Ollama, and Pandas.",MoveDecent3455,19,16,https://www.reddit.com/r/Python/comments/1li8id5/fenix_i_built_an_algorithmic_trading_bot_with/,2025-06-23 - 05:27:26
+I accidentally built a vector database using video compression,Every_Chicken_1293,652,89,https://www.reddit.com/r/Python/comments/1ky24a0/i_accidentally_built_a_vector_database_using/,2025-05-29 - 04:43:12
+FastAPI Guard v3.0 - Now with Security Decorators and AI-like Behavior Analysis,PA100T0,87,19,https://www.reddit.com/r/Python/comments/1lhxwee/fastapi_guard_v30_now_with_security_decorators/,2025-06-22 - 20:33:34
+My open source project gets 1100+ monthly downloads,ivanrj7j,262,18,https://www.reddit.com/r/Python/comments/1leazx1/my_open_source_project_gets_1100_monthly_downloads/,2025-06-18 - 07:29:24
+sodalite - an open source media downloader with a pure python backend,TappyNetwork,9,0,https://www.reddit.com/r/Python/comments/1li6ek4/sodalite_an_open_source_media_downloader_with_a/,2025-06-23 - 03:25:18
+Django Product Review App,WMRamadan81,0,1,https://www.reddit.com/r/Python/comments/1limw2z/django_product_review_app/,2025-06-23 - 17:33:23
+PyCon US 2025: Keynote Speaker - Cory Doctorow on Enshitification,zurtex,587,68,https://www.reddit.com/r/Python/comments/1kt8kxd/pycon_us_2025_keynote_speaker_cory_doctorow_on/,2025-05-23 - 02:22:51
+Just open-sourced Eion - a shared memory system for AI agents,7wdb417,13,10,https://www.reddit.com/r/Python/comments/1lhbsgi/just_opensourced_eion_a_shared_memory_system_for/,2025-06-22 - 01:08:51
+"A modern Python Project Cookiecutter Template, with all the batteries included.",wyattxdev,219,33,https://www.reddit.com/r/Python/comments/1lcz532/a_modern_python_project_cookiecutter_template/,2025-06-16 - 17:33:35
+"Fast, lightweight parser for Securities and Exchanges Commission Inline XBRL",status-code-200,8,3,https://www.reddit.com/r/Python/comments/1lhdspc/fast_lightweight_parser_for_securities_and/,2025-06-22 - 02:59:16
+Design Patterns You Should Unlearn in Python-Part2,Last_Difference9410,218,34,https://www.reddit.com/r/Python/comments/1lgrlza/design_patterns_you_should_unlearn_in_pythonpart2/,2025-06-21 - 08:22:18
+Sunday Daily Thread: What's everyone working on this week?,AutoModerator,5,5,https://www.reddit.com/r/Python/comments/1lhag85/sunday_daily_thread_whats_everyone_working_on/,2025-06-22 - 00:00:06
+"Which useful Python libraries did you learn on the job, which you may otherwise not have discovered?",typehinting,345,158,https://www.reddit.com/r/Python/comments/1ku6th8/which_useful_python_libraries_did_you_learn_on/,2025-05-24 - 08:31:33
+Wavetable synthesis in Python,creative_tech_ai,13,0,https://www.reddit.com/r/Python/comments/1lgtqgx/wavetable_synthesis_in_python/,2025-06-21 - 10:49:45
+The GIL is actually going away — Have you tried a no-GIL Python?,wyhjsbyb,340,117,https://www.reddit.com/r/Python/comments/1lccbj2/the_gil_is_actually_going_away_have_you_tried_a/,2025-06-15 - 22:01:39
+Saturday Daily Thread: Resource Request and Sharing! Daily Thread,AutoModerator,4,0,https://www.reddit.com/r/Python/comments/1lgiy3h/saturday_daily_thread_resource_request_and/,2025-06-21 - 00:00:30
+Wrote an MIT-licensed book that teaches nonprofits how to use Python to analyze and visualize data,BX1959,121,2,https://www.reddit.com/r/Python/comments/1lgmr2b/wrote_an_mitlicensed_book_that_teaches_nonprofits/,2025-06-21 - 03:19:59
+Tired of tracing code by hand?,FanAccomplished2399,308,61,https://www.reddit.com/r/Python/comments/1kzq9vi/tired_of_tracing_code_by_hand/,2025-05-31 - 06:19:34
+package-ui.nvim now supports pip/python,TibFromParis,5,3,https://www.reddit.com/r/Python/comments/1lg3ngd/packageuinvim_now_supports_pippython/,2025-06-20 - 13:12:20
+Is uvloop still faster than asyncio's event loop in python3.13?,webshark_25,266,41,https://www.reddit.com/r/Python/comments/1l8fwu1/is_uvloop_still_faster_than_asyncios_event_loop/,2025-06-11 - 01:11:32
+What topics are considered “hard” in Python?,Art-BarB,5,51,https://www.reddit.com/r/Python/comments/1lg0sli/what_topics_are_considered_hard_in_python/,2025-06-20 - 10:40:27
+I built a tool to add CSS-styled subtitles for videos,_unknownProtocol,2,0,https://www.reddit.com/r/Python/comments/1lilnty/i_built_a_tool_to_add_cssstyled_subtitles_for/,2025-06-23 - 16:47:21
+What Python GUI Lib do you like the most?,step-czxn,115,92,https://www.reddit.com/r/Python/comments/1lffudq/what_python_gui_lib_do_you_like_the_most/,2025-06-19 - 16:55:52
+Robyn (finally) supports Python 3.13 🎉,stealthanthrax,247,36,https://www.reddit.com/r/Python/comments/1l6ww94/robyn_finally_supports_python_313/,2025-06-09 - 05:35:58
+Modelling Vasculature through BARWs,eleanor_spencer,100,1,https://www.reddit.com/r/Python/comments/1lf4djo/modelling_vasculature_through_barws/,2025-06-19 - 07:06:25
+What are your favorite modern libraries or tooling for Python?,COSMOSCENTER,244,198,https://www.reddit.com/r/Python/comments/1l43i8z/what_are_your_favorite_modern_libraries_or/,2025-06-05 - 16:23:47
+Bottleneck type stubs,Beginning-Fruit-1397,10,2,https://www.reddit.com/r/Python/comments/1lfhih7/bottleneck_type_stubs/,2025-06-19 - 18:00:56
+Yet another Python framework 😅,Sea-Dance8242,91,29,https://www.reddit.com/r/Python/comments/1ldpb5j/yet_another_python_framework/,2025-06-17 - 14:57:06
+"bulletchess, A high performance chess library",Impressive-Bag-2848,208,6,https://www.reddit.com/r/Python/comments/1kyoyds/bulletchess_a_high_performance_chess_library/,2025-05-29 - 23:04:49
+I Built an English Speech Accent Recognizer with MFCCs - 98% Accuracy!,whm04,20,2,https://www.reddit.com/r/Python/comments/1lbyneb/i_built_an_english_speech_accent_recognizer_with/,2025-06-15 - 12:00:12
+python book for beginners,PipePutrid6194,0,14,https://www.reddit.com/r/Python/comments/1lil7qd/python_book_for_beginners/,2025-06-23 - 16:30:07
+Seeking Advice: Flask (Python) vs. React.js + Node.js for a Web App Project,turbulenttry-7565,2,4,https://www.reddit.com/r/Python/comments/1lc95g8/seeking_advice_flask_python_vs_reactjs_nodejs_for/,2025-06-15 - 19:44:39
+Trylon Gateway – a FastAPI “LLM firewall” you can self-host to block prompt injections & PII leaks,Consistent_Equal5327,3,7,https://www.reddit.com/r/Python/comments/1lc5m1v/trylon_gateway_a_fastapi_llm_firewall_you_can/,2025-06-15 - 17:17:04
+I built a new package for processing documents for LLM applications: SplitterMR,Andreshere,0,0,https://www.reddit.com/r/Python/comments/1liepo1/i_built_a_new_package_for_processing_documents/,2025-06-23 - 11:59:30
+Built a hybrid AI + rule-based binary options trading bot in Python. Would love feedback,Remarkable_Photo_262,0,2,https://www.reddit.com/r/Python/comments/1lcebbr/built_a_hybrid_ai_rulebased_binary_options/,2025-06-15 - 23:36:24
+"pyleak - detect leaked asyncio tasks, threads, and event loop blocking in Python",deepankarmh,192,12,https://www.reddit.com/r/Python/comments/1l2y5rz/pyleak_detect_leaked_asyncio_tasks_threads_and/,2025-06-04 - 06:04:05
+"Ruff users, what rules are using and what are you ignoring?",wyattxdev,187,61,https://www.reddit.com/r/Python/comments/1kttfst/ruff_users_what_rules_are_using_and_what_are_you/,2025-05-23 - 20:16:48
+True SDR to HDR video converter,Intrepid-Carpet-3005,14,0,https://www.reddit.com/r/Python/comments/1lbm1m4/true_sdr_to_hdr_video_converter/,2025-06-14 - 23:22:35
+Podcasts? Inspiration?,throwaway_9988552,5,8,https://www.reddit.com/r/Python/comments/1lblfyp/podcasts_inspiration/,2025-06-14 - 22:54:19
+Issues with memory_profiler and guis,MisterWafle,4,2,https://www.reddit.com/r/Python/comments/1lblqqu/issues_with_memory_profiler_and_guis/,2025-06-14 - 23:08:26
+"Electron/Tauri React-Like Python GUI Lib (Components, State, Routing, Hot Reload, UI) BasedOn PySide",step-czxn,67,0,https://www.reddit.com/r/Python/comments/1lh12rc/electrontauri_reactlike_python_gui_lib_components/,2025-06-21 - 16:51:16
+FastAPI + Supabase Auth Template,cursor_rik,175,7,https://www.reddit.com/r/Python/comments/1l2bm0g/fastapi_supabase_auth_template/,2025-06-03 - 13:15:33
+[Showcase] leetfetch – A CLI tool to fetch and organize your LeetCode submissions,rage997,0,0,https://www.reddit.com/r/Python/comments/1liej6o/showcase_leetfetch_a_cli_tool_to_fetch_and/,2025-06-23 - 11:50:03
+A modest proposal: Packages that need to build C code should do so with `-w` (disable all warnings),Conscious-Ball8373,57,17,https://www.reddit.com/r/Python/comments/1lco34b/a_modest_proposal_packages_that_need_to_build_c/,2025-06-16 - 09:08:49
+Should I drop pandas and move to polars/duckdb or go?,MinuteMeringue6305,160,114,https://www.reddit.com/r/Python/comments/1kxd97o/should_i_drop_pandas_and_move_to_polarsduckdb_or/,2025-05-28 - 10:02:21
+🔄 support for automating daily stock check & WhatsApp alert using Python,Beniciooooooooo,13,9,https://www.reddit.com/r/Python/comments/1lbcezz/support_for_automating_daily_stock_check_whatsapp/,2025-06-14 - 16:14:14
+NLP full course using NLTK,ResearcherOver845,0,1,https://www.reddit.com/r/Python/comments/1lbwmfy/nlp_full_course_using_nltk/,2025-06-15 - 09:51:06
+pyfuze 2.0.2 – A New Cross-Platform Packaging Tool for Python,TanixLu,155,18,https://www.reddit.com/r/Python/comments/1l7dwei/pyfuze_202_a_new_crossplatform_packaging_tool_for/,2025-06-09 - 19:25:17
+"I made a FOSS feature rich Python template with SOTA tools, security, CI/CD, yet easy to use",szymonmaszke,20,3,https://www.reddit.com/r/Python/comments/1lim6fb/i_made_a_foss_feature_rich_python_template_with/,2025-06-23 - 17:06:43
+Just a reminder to never blindly trust a github repo,vinnypotsandpans,722,127,https://www.reddit.com/r/Python/comments/1kvdgqa/just_a_reminder_to_never_blindly_trust_a_github/,2025-05-25 - 21:23:02
+datatrees v0.3.2: better static typing with Pylance,GianniMariani,14,0,https://www.reddit.com/r/Python/comments/1lijb48/datatrees_v032_better_static_typing_with_pylance/,2025-06-23 - 15:17:59
+What kind of Technical interview should I expect for a Python junior role?,Ok_Ice6492,0,25,https://www.reddit.com/r/Python/comments/1lipfcu/what_kind_of_technical_interview_should_i_expect/,2025-06-23 - 19:09:05
+Design Patterns You Should Unlearn in Python-Part1,Last_Difference9410,437,98,https://www.reddit.com/r/Python/comments/1lfcmky/design_patterns_you_should_unlearn_in_pythonpart1/,2025-06-19 - 14:46:02
+"Fenix: I built an algorithmic trading bot with CrewAI, Ollama, and Pandas.",MoveDecent3455,19,16,https://www.reddit.com/r/Python/comments/1li8id5/fenix_i_built_an_algorithmic_trading_bot_with/,2025-06-23 - 05:27:26
+I accidentally built a vector database using video compression,Every_Chicken_1293,652,89,https://www.reddit.com/r/Python/comments/1ky24a0/i_accidentally_built_a_vector_database_using/,2025-05-29 - 04:43:12
+FastAPI Guard v3.0 - Now with Security Decorators and AI-like Behavior Analysis,PA100T0,87,19,https://www.reddit.com/r/Python/comments/1lhxwee/fastapi_guard_v30_now_with_security_decorators/,2025-06-22 - 20:33:34
+My open source project gets 1100+ monthly downloads,ivanrj7j,262,18,https://www.reddit.com/r/Python/comments/1leazx1/my_open_source_project_gets_1100_monthly_downloads/,2025-06-18 - 07:29:24
+sodalite - an open source media downloader with a pure python backend,TappyNetwork,9,0,https://www.reddit.com/r/Python/comments/1li6ek4/sodalite_an_open_source_media_downloader_with_a/,2025-06-23 - 03:25:18
+Django Product Review App,WMRamadan81,0,1,https://www.reddit.com/r/Python/comments/1limw2z/django_product_review_app/,2025-06-23 - 17:33:23
+PyCon US 2025: Keynote Speaker - Cory Doctorow on Enshitification,zurtex,587,68,https://www.reddit.com/r/Python/comments/1kt8kxd/pycon_us_2025_keynote_speaker_cory_doctorow_on/,2025-05-23 - 02:22:51
+Just open-sourced Eion - a shared memory system for AI agents,7wdb417,13,10,https://www.reddit.com/r/Python/comments/1lhbsgi/just_opensourced_eion_a_shared_memory_system_for/,2025-06-22 - 01:08:51
+"A modern Python Project Cookiecutter Template, with all the batteries included.",wyattxdev,219,33,https://www.reddit.com/r/Python/comments/1lcz532/a_modern_python_project_cookiecutter_template/,2025-06-16 - 17:33:35
+"Fast, lightweight parser for Securities and Exchanges Commission Inline XBRL",status-code-200,8,3,https://www.reddit.com/r/Python/comments/1lhdspc/fast_lightweight_parser_for_securities_and/,2025-06-22 - 02:59:16
+Design Patterns You Should Unlearn in Python-Part2,Last_Difference9410,218,34,https://www.reddit.com/r/Python/comments/1lgrlza/design_patterns_you_should_unlearn_in_pythonpart2/,2025-06-21 - 08:22:18
+Sunday Daily Thread: What's everyone working on this week?,AutoModerator,5,5,https://www.reddit.com/r/Python/comments/1lhag85/sunday_daily_thread_whats_everyone_working_on/,2025-06-22 - 00:00:06
+"Which useful Python libraries did you learn on the job, which you may otherwise not have discovered?",typehinting,345,158,https://www.reddit.com/r/Python/comments/1ku6th8/which_useful_python_libraries_did_you_learn_on/,2025-05-24 - 08:31:33
+Wavetable synthesis in Python,creative_tech_ai,13,0,https://www.reddit.com/r/Python/comments/1lgtqgx/wavetable_synthesis_in_python/,2025-06-21 - 10:49:45
+The GIL is actually going away — Have you tried a no-GIL Python?,wyhjsbyb,340,117,https://www.reddit.com/r/Python/comments/1lccbj2/the_gil_is_actually_going_away_have_you_tried_a/,2025-06-15 - 22:01:39
+Saturday Daily Thread: Resource Request and Sharing! Daily Thread,AutoModerator,4,0,https://www.reddit.com/r/Python/comments/1lgiy3h/saturday_daily_thread_resource_request_and/,2025-06-21 - 00:00:30
+Wrote an MIT-licensed book that teaches nonprofits how to use Python to analyze and visualize data,BX1959,121,2,https://www.reddit.com/r/Python/comments/1lgmr2b/wrote_an_mitlicensed_book_that_teaches_nonprofits/,2025-06-21 - 03:19:59
+Tired of tracing code by hand?,FanAccomplished2399,308,61,https://www.reddit.com/r/Python/comments/1kzq9vi/tired_of_tracing_code_by_hand/,2025-05-31 - 06:19:34
+package-ui.nvim now supports pip/python,TibFromParis,5,3,https://www.reddit.com/r/Python/comments/1lg3ngd/packageuinvim_now_supports_pippython/,2025-06-20 - 13:12:20
+Is uvloop still faster than asyncio's event loop in python3.13?,webshark_25,266,41,https://www.reddit.com/r/Python/comments/1l8fwu1/is_uvloop_still_faster_than_asyncios_event_loop/,2025-06-11 - 01:11:32
+What topics are considered “hard” in Python?,Art-BarB,5,51,https://www.reddit.com/r/Python/comments/1lg0sli/what_topics_are_considered_hard_in_python/,2025-06-20 - 10:40:27
+I built a tool to add CSS-styled subtitles for videos,_unknownProtocol,2,0,https://www.reddit.com/r/Python/comments/1lilnty/i_built_a_tool_to_add_cssstyled_subtitles_for/,2025-06-23 - 16:47:21
+What Python GUI Lib do you like the most?,step-czxn,115,92,https://www.reddit.com/r/Python/comments/1lffudq/what_python_gui_lib_do_you_like_the_most/,2025-06-19 - 16:55:52
+Robyn (finally) supports Python 3.13 🎉,stealthanthrax,247,36,https://www.reddit.com/r/Python/comments/1l6ww94/robyn_finally_supports_python_313/,2025-06-09 - 05:35:58
+Modelling Vasculature through BARWs,eleanor_spencer,100,1,https://www.reddit.com/r/Python/comments/1lf4djo/modelling_vasculature_through_barws/,2025-06-19 - 07:06:25
+What are your favorite modern libraries or tooling for Python?,COSMOSCENTER,244,198,https://www.reddit.com/r/Python/comments/1l43i8z/what_are_your_favorite_modern_libraries_or/,2025-06-05 - 16:23:47
+Bottleneck type stubs,Beginning-Fruit-1397,10,2,https://www.reddit.com/r/Python/comments/1lfhih7/bottleneck_type_stubs/,2025-06-19 - 18:00:56
+Yet another Python framework 😅,Sea-Dance8242,91,29,https://www.reddit.com/r/Python/comments/1ldpb5j/yet_another_python_framework/,2025-06-17 - 14:57:06
+"bulletchess, A high performance chess library",Impressive-Bag-2848,208,6,https://www.reddit.com/r/Python/comments/1kyoyds/bulletchess_a_high_performance_chess_library/,2025-05-29 - 23:04:49
+I Built an English Speech Accent Recognizer with MFCCs - 98% Accuracy!,whm04,20,2,https://www.reddit.com/r/Python/comments/1lbyneb/i_built_an_english_speech_accent_recognizer_with/,2025-06-15 - 12:00:12
+python book for beginners,PipePutrid6194,0,14,https://www.reddit.com/r/Python/comments/1lil7qd/python_book_for_beginners/,2025-06-23 - 16:30:07
+Seeking Advice: Flask (Python) vs. React.js + Node.js for a Web App Project,turbulenttry-7565,2,4,https://www.reddit.com/r/Python/comments/1lc95g8/seeking_advice_flask_python_vs_reactjs_nodejs_for/,2025-06-15 - 19:44:39
+Trylon Gateway – a FastAPI “LLM firewall” you can self-host to block prompt injections & PII leaks,Consistent_Equal5327,3,7,https://www.reddit.com/r/Python/comments/1lc5m1v/trylon_gateway_a_fastapi_llm_firewall_you_can/,2025-06-15 - 17:17:04
+I built a new package for processing documents for LLM applications: SplitterMR,Andreshere,0,0,https://www.reddit.com/r/Python/comments/1liepo1/i_built_a_new_package_for_processing_documents/,2025-06-23 - 11:59:30
+Built a hybrid AI + rule-based binary options trading bot in Python. Would love feedback,Remarkable_Photo_262,0,2,https://www.reddit.com/r/Python/comments/1lcebbr/built_a_hybrid_ai_rulebased_binary_options/,2025-06-15 - 23:36:24
+"pyleak - detect leaked asyncio tasks, threads, and event loop blocking in Python",deepankarmh,192,12,https://www.reddit.com/r/Python/comments/1l2y5rz/pyleak_detect_leaked_asyncio_tasks_threads_and/,2025-06-04 - 06:04:05
+"Ruff users, what rules are using and what are you ignoring?",wyattxdev,187,61,https://www.reddit.com/r/Python/comments/1kttfst/ruff_users_what_rules_are_using_and_what_are_you/,2025-05-23 - 20:16:48
+True SDR to HDR video converter,Intrepid-Carpet-3005,14,0,https://www.reddit.com/r/Python/comments/1lbm1m4/true_sdr_to_hdr_video_converter/,2025-06-14 - 23:22:35
+Podcasts? Inspiration?,throwaway_9988552,5,8,https://www.reddit.com/r/Python/comments/1lblfyp/podcasts_inspiration/,2025-06-14 - 22:54:19
+Issues with memory_profiler and guis,MisterWafle,4,2,https://www.reddit.com/r/Python/comments/1lblqqu/issues_with_memory_profiler_and_guis/,2025-06-14 - 23:08:26
+"Electron/Tauri React-Like Python GUI Lib (Components, State, Routing, Hot Reload, UI) BasedOn PySide",step-czxn,67,0,https://www.reddit.com/r/Python/comments/1lh12rc/electrontauri_reactlike_python_gui_lib_components/,2025-06-21 - 16:51:16
+FastAPI + Supabase Auth Template,cursor_rik,175,7,https://www.reddit.com/r/Python/comments/1l2bm0g/fastapi_supabase_auth_template/,2025-06-03 - 13:15:33
+[Showcase] leetfetch – A CLI tool to fetch and organize your LeetCode submissions,rage997,0,0,https://www.reddit.com/r/Python/comments/1liej6o/showcase_leetfetch_a_cli_tool_to_fetch_and/,2025-06-23 - 11:50:03
+A modest proposal: Packages that need to build C code should do so with `-w` (disable all warnings),Conscious-Ball8373,57,17,https://www.reddit.com/r/Python/comments/1lco34b/a_modest_proposal_packages_that_need_to_build_c/,2025-06-16 - 09:08:49
+Should I drop pandas and move to polars/duckdb or go?,MinuteMeringue6305,160,114,https://www.reddit.com/r/Python/comments/1kxd97o/should_i_drop_pandas_and_move_to_polarsduckdb_or/,2025-05-28 - 10:02:21
+🔄 support for automating daily stock check & WhatsApp alert using Python,Beniciooooooooo,13,9,https://www.reddit.com/r/Python/comments/1lbcezz/support_for_automating_daily_stock_check_whatsapp/,2025-06-14 - 16:14:14
+NLP full course using NLTK,ResearcherOver845,0,1,https://www.reddit.com/r/Python/comments/1lbwmfy/nlp_full_course_using_nltk/,2025-06-15 - 09:51:06
+pyfuze 2.0.2 – A New Cross-Platform Packaging Tool for Python,TanixLu,155,18,https://www.reddit.com/r/Python/comments/1l7dwei/pyfuze_202_a_new_crossplatform_packaging_tool_for/,2025-06-09 - 19:25:17
+"What ever happened to ""Zope""?!",RevolutionarySeven7,152,26,https://www.reddit.com/r/Python/comments/1l9furl/what_ever_happened_to_zope/,2025-06-12 - 06:56:36
+Sunday Daily Thread: What's everyone working on this week?,AutoModerator,2,6,https://www.reddit.com/r/Python/comments/1lbmt5u/sunday_daily_thread_whats_everyone_working_on/,2025-06-15 - 00:00:31
+Comment on my open source project,jasonhon2013,0,7,https://www.reddit.com/r/Python/comments/1lbt08y/comment_on_my_open_source_project/,2025-06-15 - 05:46:58
+No more exit()? Yay for exit!,cleverdosopab,143,52,https://www.reddit.com/r/Python/comments/1l1zeib/no_more_exit_yay_for_exit/,2025-06-03 - 01:22:34
+Data Science Practice Resource,Vast-Air462,7,0,https://www.reddit.com/r/Python/comments/1lb511h/data_science_practice_resource/,2025-06-14 - 09:53:42
+Building an ERP: ready-made platforms vs custom development,absolutely__no,3,11,https://www.reddit.com/r/Python/comments/1lb5jk5/building_an_erp_readymade_platforms_vs_custom/,2025-06-14 - 10:28:43
+Saturday Daily Thread: Resource Request and Sharing! Daily Thread,AutoModerator,4,1,https://www.reddit.com/r/Python/comments/1lauzll/saturday_daily_thread_resource_request_and/,2025-06-14 - 00:00:35
+Functional programming concepts that actually work in Python,Capable-Mall-2067,137,41,https://www.reddit.com/r/Python/comments/1kz6kx3/functional_programming_concepts_that_actually/,2025-05-30 - 15:06:35
+Kafka Consumer Rebalancing Despite Different Group IDs,Used-Freedom-7315,1,2,https://www.reddit.com/r/Python/comments/1lidwno/kafka_consumer_rebalancing_despite_different/,2025-06-23 - 11:15:01
+Recent Noteworthy Package Releases,ashok_tankala,50,5,https://www.reddit.com/r/Python/comments/1lg0hkc/recent_noteworthy_package_releases/,2025-06-20 - 10:20:43
+"I built ""Submind"" – a beautiful PyQt6 app to batch transcribe and auto-translate subtitles",Specialist-Arachnid6,6,10,https://www.reddit.com/r/Python/comments/1lap8mz/i_built_submind_a_beautiful_pyqt6_app_to_batch/,2025-06-13 - 19:46:42
+Monday Daily Thread: Project ideas!,AutoModerator,2,1,https://www.reddit.com/r/Python/comments/1li2gwg/monday_daily_thread_project_ideas/,2025-06-23 - 00:00:32
+Recent Noteworthy Package Releases,ashok_tankala,9,0,https://www.reddit.com/r/Python/comments/1laazsd/recent_noteworthy_package_releases/,2025-06-13 - 08:47:04
+Juvio - UV Kernel for Jupyter,iryna_kondr,125,10,https://www.reddit.com/r/Python/comments/1l8xwsc/juvio_uv_kernel_for_jupyter/,2025-06-11 - 16:59:09
+CRUDAdmin - Modern and light admin interface for FastAPI built with FastCRUD and HTMX,igorbenav,122,11,https://www.reddit.com/r/Python/comments/1l4yh0g/crudadmin_modern_and_light_admin_interface_for/,2025-06-06 - 17:37:08
+Py to EXE Compiler,Intrepid-Carpet-3005,0,13,https://www.reddit.com/r/Python/comments/1lb3t95/py_to_exe_compiler/,2025-06-14 - 08:30:19
+"MCPGex - MCP server for finding, testing and refining regex patterns",PatzEdi,0,2,https://www.reddit.com/r/Python/comments/1lav4s8/mcpgex_mcp_server_for_finding_testing_and/,2025-06-14 - 00:07:39
+"I built a React-style UI framework in Python using PySide6 components (State, Components, DB, LHR)",step-czxn,48,13,https://www.reddit.com/r/Python/comments/1ldjmzh/i_built_a_reactstyle_ui_framework_in_python_using/,2025-06-17 - 10:29:23
+Pypp: A Python to C++ transpiler [WIP]. Gauging interest and open to advice.,joeblow2322,112,60,https://www.reddit.com/r/Python/comments/1laf5ss/pypp_a_python_to_c_transpiler_wip_gauging/,2025-06-13 - 12:52:47
+My HDR Photo Maker,Intrepid-Carpet-3005,0,2,https://www.reddit.com/r/Python/comments/1laqarr/my_hdr_photo_maker/,2025-06-13 - 20:30:49
+I turned a thermodynamics principle into a learning algorithm - and it lands a moonlander,kongaskristjan,104,25,https://www.reddit.com/r/Python/comments/1l7y0zh/i_turned_a_thermodynamics_principle_into_a/,2025-06-10 - 12:56:11
+What version do you all use at work?,donHormiga,99,142,https://www.reddit.com/r/Python/comments/1l8chj0/what_version_do_you_all_use_at_work/,2025-06-10 - 22:32:04
+Fully python quantum algorithms,SouthernPlantain4889,0,24,https://www.reddit.com/r/Python/comments/1lhquzn/fully_python_quantum_algorithms/,2025-06-22 - 15:39:45
+"Single process, multiple interpreters, no GIL contention - pre-Python3.12",MoveZig4,99,7,https://www.reddit.com/r/Python/comments/1kvy7nf/single_process_multiple_interpreters_no_gil/,2025-05-26 - 16:08:55
+NexFace: High Quality Face Swap to Image and Video,typhoon90,2,0,https://www.reddit.com/r/Python/comments/1ladu54/nexface_high_quality_face_swap_to_image_and_video/,2025-06-13 - 11:45:49
+"What ever happened to ""Zope""?!",RevolutionarySeven7,152,26,https://www.reddit.com/r/Python/comments/1l9furl/what_ever_happened_to_zope/,2025-06-12 - 06:56:36
+Sunday Daily Thread: What's everyone working on this week?,AutoModerator,2,6,https://www.reddit.com/r/Python/comments/1lbmt5u/sunday_daily_thread_whats_everyone_working_on/,2025-06-15 - 00:00:31
+Comment on my open source project,jasonhon2013,0,7,https://www.reddit.com/r/Python/comments/1lbt08y/comment_on_my_open_source_project/,2025-06-15 - 05:46:58
+No more exit()? Yay for exit!,cleverdosopab,143,52,https://www.reddit.com/r/Python/comments/1l1zeib/no_more_exit_yay_for_exit/,2025-06-03 - 01:22:34
+Data Science Practice Resource,Vast-Air462,7,0,https://www.reddit.com/r/Python/comments/1lb511h/data_science_practice_resource/,2025-06-14 - 09:53:42
+Building an ERP: ready-made platforms vs custom development,absolutely__no,3,11,https://www.reddit.com/r/Python/comments/1lb5jk5/building_an_erp_readymade_platforms_vs_custom/,2025-06-14 - 10:28:43
+Saturday Daily Thread: Resource Request and Sharing! Daily Thread,AutoModerator,4,1,https://www.reddit.com/r/Python/comments/1lauzll/saturday_daily_thread_resource_request_and/,2025-06-14 - 00:00:35
+Functional programming concepts that actually work in Python,Capable-Mall-2067,137,41,https://www.reddit.com/r/Python/comments/1kz6kx3/functional_programming_concepts_that_actually/,2025-05-30 - 15:06:35
+Kafka Consumer Rebalancing Despite Different Group IDs,Used-Freedom-7315,1,2,https://www.reddit.com/r/Python/comments/1lidwno/kafka_consumer_rebalancing_despite_different/,2025-06-23 - 11:15:01
+Recent Noteworthy Package Releases,ashok_tankala,50,5,https://www.reddit.com/r/Python/comments/1lg0hkc/recent_noteworthy_package_releases/,2025-06-20 - 10:20:43
+"I built ""Submind"" – a beautiful PyQt6 app to batch transcribe and auto-translate subtitles",Specialist-Arachnid6,6,10,https://www.reddit.com/r/Python/comments/1lap8mz/i_built_submind_a_beautiful_pyqt6_app_to_batch/,2025-06-13 - 19:46:42
+Monday Daily Thread: Project ideas!,AutoModerator,2,1,https://www.reddit.com/r/Python/comments/1li2gwg/monday_daily_thread_project_ideas/,2025-06-23 - 00:00:32
+Recent Noteworthy Package Releases,ashok_tankala,9,0,https://www.reddit.com/r/Python/comments/1laazsd/recent_noteworthy_package_releases/,2025-06-13 - 08:47:04
+Juvio - UV Kernel for Jupyter,iryna_kondr,125,10,https://www.reddit.com/r/Python/comments/1l8xwsc/juvio_uv_kernel_for_jupyter/,2025-06-11 - 16:59:09
+CRUDAdmin - Modern and light admin interface for FastAPI built with FastCRUD and HTMX,igorbenav,122,11,https://www.reddit.com/r/Python/comments/1l4yh0g/crudadmin_modern_and_light_admin_interface_for/,2025-06-06 - 17:37:08
+Py to EXE Compiler,Intrepid-Carpet-3005,0,13,https://www.reddit.com/r/Python/comments/1lb3t95/py_to_exe_compiler/,2025-06-14 - 08:30:19
+"MCPGex - MCP server for finding, testing and refining regex patterns",PatzEdi,0,2,https://www.reddit.com/r/Python/comments/1lav4s8/mcpgex_mcp_server_for_finding_testing_and/,2025-06-14 - 00:07:39
+"I built a React-style UI framework in Python using PySide6 components (State, Components, DB, LHR)",step-czxn,48,13,https://www.reddit.com/r/Python/comments/1ldjmzh/i_built_a_reactstyle_ui_framework_in_python_using/,2025-06-17 - 10:29:23
+Pypp: A Python to C++ transpiler [WIP]. Gauging interest and open to advice.,joeblow2322,112,60,https://www.reddit.com/r/Python/comments/1laf5ss/pypp_a_python_to_c_transpiler_wip_gauging/,2025-06-13 - 12:52:47
+My HDR Photo Maker,Intrepid-Carpet-3005,0,2,https://www.reddit.com/r/Python/comments/1laqarr/my_hdr_photo_maker/,2025-06-13 - 20:30:49
+I turned a thermodynamics principle into a learning algorithm - and it lands a moonlander,kongaskristjan,104,25,https://www.reddit.com/r/Python/comments/1l7y0zh/i_turned_a_thermodynamics_principle_into_a/,2025-06-10 - 12:56:11
+What version do you all use at work?,donHormiga,99,142,https://www.reddit.com/r/Python/comments/1l8chj0/what_version_do_you_all_use_at_work/,2025-06-10 - 22:32:04
+Fully python quantum algorithms,SouthernPlantain4889,0,24,https://www.reddit.com/r/Python/comments/1lhquzn/fully_python_quantum_algorithms/,2025-06-22 - 15:39:45
+"Single process, multiple interpreters, no GIL contention - pre-Python3.12",MoveZig4,99,7,https://www.reddit.com/r/Python/comments/1kvy7nf/single_process_multiple_interpreters_no_gil/,2025-05-26 - 16:08:55
+NexFace: High Quality Face Swap to Image and Video,typhoon90,2,0,https://www.reddit.com/r/Python/comments/1ladu54/nexface_high_quality_face_swap_to_image_and_video/,2025-06-13 - 11:45:49
+I built FlowState CLI: a free open source productivity tool for devs who want less noise,capitanturkiye,0,0,https://www.reddit.com/r/Python/comments/1lhlbul/i_built_flowstate_cli_a_free_open_source/,2025-06-22 - 11:06:18
+Friday Daily Thread: r/Python Meta and Free-Talk Fridays,AutoModerator,3,1,https://www.reddit.com/r/Python/comments/1la1w5g/friday_daily_thread_rpython_meta_and_freetalk/,2025-06-13 - 00:00:34
+Built a video on creating a free AI agent for beginners ( Open source and Free to Try)!,Powerful-Ad7836,0,6,https://www.reddit.com/r/Python/comments/1la3n57/built_a_video_on_creating_a_free_ai_agent_for/,2025-06-13 - 01:25:47
+How global variables work in Python bytecode,19forty,40,12,https://www.reddit.com/r/Python/comments/1lctpba/how_global_variables_work_in_python_bytecode/,2025-06-16 - 14:05:47
+"Thursday Daily Thread: Python Careers, Courses, and Furthering Education!",AutoModerator,1,0,https://www.reddit.com/r/Python/comments/1l987wu/thursday_daily_thread_python_careers_courses_and/,2025-06-12 - 00:00:32
+Pydantic / Celery Seamless Integration,catalyst_jw,97,15,https://www.reddit.com/r/Python/comments/1l5m6s5/pydantic_celery_seamless_integration/,2025-06-07 - 14:31:45
+MicroPie (ultra thin ASGI framework) version 0.9.9.8 Released,Miserable_Ear3789,96,26,https://www.reddit.com/r/Python/comments/1kwd9ml/micropie_ultra_thin_asgi_framework_version_0998/,2025-05-27 - 03:20:06
+Looking for Chemistry Enthusiasts for NeurIPS Open Polymer Prediction 2025 (Kaggle),Problemsolver_11,40,6,https://www.reddit.com/r/Python/comments/1lg1m6g/looking_for_chemistry_enthusiasts_for_neurips/,2025-06-20 - 11:27:27
+I cannot be the only one that hates Flask,DefenitlyNotADolphin,0,32,https://www.reddit.com/r/Python/comments/1l9n1pf/i_cannot_be_the_only_one_that_hates_flask/,2025-06-12 - 13:53:06
+I built a free self-hosted application for effortless video transcription and translation,ChoiceUpset5548,39,5,https://www.reddit.com/r/Python/comments/1lebqvx/i_built_a_free_selfhosted_application_for/,2025-06-18 - 08:21:03
+"Website version of Christopher Manson's 1985 puzzle book, ""Maze""",AlSweigart,90,7,https://www.reddit.com/r/Python/comments/1l9urle/website_version_of_christopher_mansons_1985/,2025-06-12 - 18:59:18
+Project] DiscoverLastfm: Automated music discovery using Last.fm API,dicthdigger,0,1,https://www.reddit.com/r/Python/comments/1lhkbz6/project_discoverlastfm_automated_music_discovery/,2025-06-22 - 09:59:47
+better_exchook: semi-intelligently print variables in stack traces,albertzeyer,38,7,https://www.reddit.com/r/Python/comments/1lf5thc/better_exchook_semiintelligently_print_variables/,2025-06-19 - 08:42:24
+Pyodbc to SQL Server using executemany or TVP?,Particular-Battle513,4,2,https://www.reddit.com/r/Python/comments/1l8mq91/pyodbc_to_sql_server_using_executemany_or_tvp/,2025-06-11 - 07:45:36
+Inviting people to work on AIrFlask,elprezidante0,2,7,https://www.reddit.com/r/Python/comments/1lhi2ew/inviting_people_to_work_on_airflask/,2025-06-22 - 07:22:34
+Is Python really important for cybersecurity?,Wendellcesar,0,9,https://www.reddit.com/r/Python/comments/1l95skp/is_python_really_important_for_cybersecurity/,2025-06-11 - 22:11:39
+complexipy v3.0.0: A fast Python cognitive complexity checker,fexx3l,34,6,https://www.reddit.com/r/Python/comments/1lcime6/complexipy_v300_a_fast_python_cognitive/,2025-06-16 - 03:19:44
+[Project] I built an Open-Source WhatsApp Chatbot using Python and the Gemini AI API.,samla123li,0,4,https://www.reddit.com/r/Python/comments/1l94mr0/project_i_built_an_opensource_whatsapp_chatbot/,2025-06-11 - 21:23:59
+New fastest HTML parser,OxygenDiFluoride,29,9,https://www.reddit.com/r/Python/comments/1lganqg/new_fastest_html_parser/,2025-06-20 - 18:01:36
+Wednesday Daily Thread: Beginner questions,AutoModerator,6,7,https://www.reddit.com/r/Python/comments/1l8egg6/wednesday_daily_thread_beginner_questions/,2025-06-11 - 00:00:30
+A file-sharing tool that uses random codes instead of URLs or accounts.,Kuldeep0909,0,20,https://www.reddit.com/r/Python/comments/1lhhlpn/a_filesharing_tool_that_uses_random_codes_instead/,2025-06-22 - 06:51:52
+🐕 Just build Doggo CLI with Python - search your files with plain English,n0lanzero,0,0,https://www.reddit.com/r/Python/comments/1lhhglo/just_build_doggo_cli_with_python_search_your/,2025-06-22 - 06:42:28
+Concurrency in Python,iMrProfessor,28,14,https://www.reddit.com/r/Python/comments/1lf6o1p/concurrency_in_python/,2025-06-19 - 09:40:01
+"Ty: Finally, a Good Type Checker in Python",shadowsyntax43,0,8,https://www.reddit.com/r/Python/comments/1lgyz22/ty_finally_a_good_type_checker_in_python/,2025-06-21 - 15:19:00
+"🚀 Built a terminal chat OS with AI, music, file sharing — AERO‑V10 by YOCRRZ",Total-Rutabaga-8512,0,0,https://www.reddit.com/r/Python/comments/1lgy5iy/built_a_terminal_chat_os_with_ai_music_file/,2025-06-21 - 14:42:16
